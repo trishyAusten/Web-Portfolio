@@ -9,7 +9,7 @@
 
 html{
 	font-size: 10px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto',"Comic Sans MS";
 	color: #eee;
 }
 
@@ -98,7 +98,7 @@ img{
 	font-size: 5rem;
 	font-weight: 300;
 	padding-top: 3px;
-	font-family: 'Strawberry Blossom', serif;
+	font-family: 'Strawberry Blossom', "Comic Sans MS";
 
 	background:linear-gradient(to top, #ffe838, #fd57bf);   /* a gradient look for the nav menu bar*/
 	-webkit-background-clip:text;
@@ -151,7 +151,7 @@ li{
 
 
 .nav-link{
-	font-family:'Gloss And Bloom', sans-serif ;  /* font of NaVIGTION BAR*/
+	font-family:'Gloss And Bloom', "Impact" ;  /* font of NaVIGTION BAR*/
 	font-size: 2rem;
 	padding: 1rem;
 }
@@ -251,7 +251,7 @@ transform: rotate(-450deg) translateX(-.8rem);
 
 .landing-text h1{
 	font-size: 20rem;
-	font-family:'Friendly Schoolmates',sans serif;
+	font-family:'Friendly Schoolmates',"Cooper Black";
 background:linear-gradient(to top, #ffe838, #fd57bf);   /* a gradient look for the nav menu bar*/
 	-webkit-background-clip:text;
 	-webkit-text-fill-color:transparent;
